@@ -1,2 +1,2 @@
-# andreasun14.github.io.portfolio
+# andreasun14.github.io
 Andrea Sun's Digital Marketing Portfolio
